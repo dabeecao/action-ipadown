@@ -2,7 +2,7 @@
 
 Download old versions of app using Github Actions, without computers!
 
-**Warning: NOT supporting 2FA accounts currently**
+**Warning: NOT supporting 2FA accounts currently***
 
 ## Use Cases
 
